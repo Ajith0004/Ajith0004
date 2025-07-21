@@ -1,3 +1,5 @@
+!-- ASCII Art (optional, can use any ASCII generator or website like https://patorjk.com/software/taag/) --
+
 ## Hi there 👋
 
 <!--
