@@ -1,10 +1,13 @@
 <!-- ASCII Art (optional, generated using https://patorjk.com/software/taag/) -->
-     _        _ _     _       _     _             
-    / \   ___| | | __| | __ _| |__ | | ___   __ _ 
-   / _ \ / __| | |/ _` |/ _` | '_ \| |/ _ \ / _` |
-  / ___ \ (__| | | (_| | (_| | |_) | | (_) | (_| |
- /_/   \_\___|_|_|\__,_|\__,_|_.__/|_|\___/ \__, |
-                                           |___/ 
+
+           [~AJITH ABRAHAM BEN~]
+        $$$$$$$$$$$$$$$$$$$$$$$$$
+     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+        $$$$$$$$$$$$$$$$$$$$$$$$$$
+           $$$$$$$$$$$$$$$$$$$$
+
 ## Hi there 👋 I'm Ajith Abraham Ben
 
 🎓 I'm currently a 3rd-year Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
